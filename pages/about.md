@@ -1,22 +1,24 @@
 ---
-title: About
+title: Akulina Nikitina
 date: 2019-07-09
 menu:
   main:
     weight: 999
+draft: false
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
-
-## How to use?
-
-### Managing content with [Forestry](https://forestry.io)
-
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
-
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+> I'm a content writer with a knack for finding the right words to connect people, products and brands. I like to write, I like to create, I like to think and contemplate. To cut a long story short - I’m a wordsmith who loves to write stories that make you feel something. A visionary who wants to change the world. An artist who wants to capture your heart.
+>
+> ### Skills
+>
+> * Excellent writing and editing skills
+> * Strong research and fact-checking abilities
+> * Ability to write in a variety of styles and formats
+> * Proficiency in English grammar and spelling
+> * Familiarity with keyword optimization and SEO best practices
+> * Excellent organizational and time management skills
+> * Strong communication and collaboration skills
+> * Ability to work independently and meet deadlines
+> * Adaptability and flexibility in response to changing client needs and project requirements
+> * A keen eye for detail and a commitment to producing high-quality work.
+>
+>
