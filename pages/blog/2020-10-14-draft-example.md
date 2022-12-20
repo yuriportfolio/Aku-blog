@@ -21,9 +21,7 @@ draft: false
 ---
 ## Does high-quality mean high price?
 
-The high price is a fee for quality, professional team, and the vast range of services provided.
-
-One might get the impression that a high-quality cleaning with a professional team might be expensive, but this is not the case. It is a common misconception that high quality means high price. Quality can be achieved at any price point, and the commercial cleaning industry is a perfect example of this.
+The high price is a fee for quality, professional team, and the vast range of services provided. One might get the impression that a high-quality cleaning with a professional team might be expensive, but this is not the case. It is a common misconception that high quality means high price. Quality can be achieved at any price point, and the commercial cleaning industry is a perfect example of this.
 
 The high-quality commercial cleaning company is not just about hiring a professional team of cleaners. It's also about investing in the right equipment and software for your business. This will help you get better results with less time, effort and money spent on training your team and maintaining them.
 
