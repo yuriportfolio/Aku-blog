@@ -16,14 +16,14 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://cecilapp.github.io/the-butler/" />
   </url>
   <url>
-    <loc>https://cecilapp.github.io/the-butler/blog/draft-example/</loc>
-    <lastmod>2020-10-14</lastmod>
+    <loc>https://cecilapp.github.io/the-butler/blog/princess-mononoke/</loc>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://cecilapp.github.io/the-butler/blog/princess-mononoke/</loc>
-    <lastmod>2020-03-09</lastmod>
+    <loc>https://cecilapp.github.io/the-butler/blog/draft-example/</loc>
+    <lastmod>2020-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
