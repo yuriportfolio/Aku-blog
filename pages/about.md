@@ -8,7 +8,9 @@ draft: false
 ---
 ![](/images/29e79f40-015e-4950-9bb4-72ff62517a86.jpeg)
 
-### A﻿kulina Nikitina
+### A﻿kulina Nikitina 
+
+Date of birth: 29/01/1987
 
 ### A﻿bout:
 
