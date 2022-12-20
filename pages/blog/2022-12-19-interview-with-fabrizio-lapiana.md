@@ -1,6 +1,6 @@
 ---
 title: "Interview with Fabrizio Lapiana "
-date: 2022-12-19T23:53:07.262Z
+date: 2019-08-28T22:53:07.262Z
 image: /images/fabrizio-lapiana.jpeg
 tags:
   - portfolio project
