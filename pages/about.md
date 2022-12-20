@@ -33,4 +33,4 @@ High school degree, English language and literature department.
 
 a﻿ilindesha@gmail.com
 
-+﻿380636297454 - WhatsUp/Viber
++﻿380636297454 - WhatsApp/Viber
