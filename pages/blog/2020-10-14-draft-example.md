@@ -1,6 +1,6 @@
 ---
 title: Does high-quality mean high price?
-date: 2020-10-14T16:34:00.000Z
+date: 2022-11-16T17:34:00.000Z
 image: /images/gagarin_happy_cleaners_cleaning_huge_office_with_hi_tech_equipm_f91cfd37-9108-40d1-8141-c99858660586.png
 tags:
   - quality
