@@ -1,5 +1,5 @@
 ---
-title: Akulina Nikitina
+title: About
 date: 2019-07-09
 menu:
   main:
@@ -7,6 +7,8 @@ menu:
 draft: false
 ---
 ![](/images/29e79f40-015e-4950-9bb4-72ff62517a86.jpeg)
+
+### A﻿kulina Nikitina
 
 ### A﻿bout:
 
