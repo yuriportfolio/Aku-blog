@@ -19,6 +19,8 @@ tags:
   - portfolio showcase
 draft: false
 ---
+\*﻿An example of an informational post written for a commercial cleaning company. The artwork featured here was personally designed for the portfolio.
+
 ## Does high-quality mean high price?
 
 The high price is a fee for quality, professional team, and the vast range of services provided. One might get the impression that a high-quality cleaning with a professional team might be expensive, but this is not the case. It is a common misconception that high quality means high price. Quality can be achieved at any price point, and the commercial cleaning industry is a perfect example of this.
