@@ -26,7 +26,7 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/draft-example/" rel="alternate" type="text/html" />
     <published>2022-11-16T18:34:00+01:00</published>
-    <updated>2022-12-21T19:10:41+01:00</updated>
+    <updated>2022-12-21T19:27:15+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/daft-punk/</id>
@@ -53,13 +53,14 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/daft-punk/" rel="alternate" type="text/html" />
     <published>2022-10-12T15:43:00+02:00</published>
-    <updated>2022-12-21T19:10:41+01:00</updated>
+    <updated>2022-12-21T19:27:15+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/doom/</id>
     <title>Freedom Art Shop </title>
     <content type="html">
-      <![CDATA[<h2 id="our-philosophy">Our Philosophy.</h2>
+      <![CDATA[<p>*﻿The task was to write an introduction for an online digital art shop and up to thirty generalized descriptions that would work well in a tweet with pictures devoted to the struggle of Ukrainian people during the war. Here are a few examples. The title and artwork featured in this case were specially designed for the portfolio.</p>
+<h2 id="our-philosophy">Our Philosophy.</h2>
 <p>The Ukrainian people are fighting for their freedom and independence. They're fighting for a country where they can speak their own language, have their own culture, and brag about who they are. We are a company that is dedicated to the idea of freedom. We believe that all humans should have the ability to be free and live life in peace. </p>
 <p>We are Ukrainians. We are strong. We are fighting for our country and for our freedom! And this is something worth supporting! What better way to do that than with art? Digital art is not just a trend, but it's an integral part of the future of creativity. </p>
 <p>This shop offers art illustrations to help those who are fighting for Ukraine with a portion of profit going to fund Ukrainian army. You can show your support by contributing or making a donation.</p>
@@ -88,7 +89,7 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/doom/" rel="alternate" type="text/html" />
     <published>2022-06-23T00:00:00+02:00</published>
-    <updated>2022-12-21T19:10:41+01:00</updated>
+    <updated>2022-12-21T19:27:15+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/princess-mononoke/</id>
@@ -109,7 +110,7 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/princess-mononoke/" rel="alternate" type="text/html" />
     <published>2021-04-06T00:00:00+02:00</published>
-    <updated>2022-12-21T19:10:41+01:00</updated>
+    <updated>2022-12-21T19:27:15+01:00</updated>
   </entry>
   <entry xml:lang="en">
     <id>https://cecilapp.github.io/the-butler/blog/interview-with-fabrizio-lapiana/</id>
@@ -130,6 +131,6 @@
     </content>
     <link href="https://cecilapp.github.io/the-butler/blog/interview-with-fabrizio-lapiana/" rel="alternate" type="text/html" />
     <published>2018-04-10T00:53:07+02:00</published>
-    <updated>2022-12-21T19:10:41+01:00</updated>
+    <updated>2022-12-21T19:27:15+01:00</updated>
   </entry>
 </feed>
