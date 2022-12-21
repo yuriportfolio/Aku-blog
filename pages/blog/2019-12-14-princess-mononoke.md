@@ -12,7 +12,7 @@ tags:
   - spiritual practice
 draft: false
 ---
-\*﻿The task was to write up to ten generalized predictions based on different card combinations, with a short, effective lead for the NFT project. Here are several examples based on the Tarot card meaning.
+\*﻿The task was to write up to ten generalized predictions based on different card combinations, with a short, effective lead for the NFT project. Here are several examples based on the Tarot card meaning. The artwork featured here was personally designed for the portfolio.
 
 ### Do you believe in the power of Tarot cards?
 
