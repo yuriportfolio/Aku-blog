@@ -12,7 +12,9 @@ tags:
   - spiritual practice
 draft: false
 ---
-Do you believe in the power of Tarot cards?
+\*﻿The task was to write up to ten generalized predictions based on different card combinations, with a short, effective lead for the NFT project. Here are several examples based on the Tarot card meaning.
+
+### Do you believe in the power of Tarot cards?
 
 The Tarot cards are a symbol of the past, present, and future. They have been used as tools of divination and guidance for centuries. “The Eternal Journey” is a kit of design Tarot cards that goes together with a personal prediction. It's an easy way to get started in the world of tarot and it's a great gift for someone who is interested in this spiritual practice.
 
